@@ -13,3 +13,12 @@
 #### Download from youtube 
 * youtube-dl | [command line tool to Download videos from youtube](https://rg3.github.io/youtube-dl/)
 * Download YouTube Videos as MP4 | [Add download button to Firefox web browser](https://addons.mozilla.org/fr/firefox/addon/download-youtube/) 
+
+
+### Graphics and images manipulation
+* Gimp | [Photoshop anternative for ubuntu](https://www.gimp.org/)
+* Inkscape | [Vector Graphics editor](https://inkscape.org/fr/download/linux/) 
+
+### Version Control Systems
+#### with GUI
+* smartgit | [Smart git for ubuntu](http://www.syntevo.com/smartgit/download)
