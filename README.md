@@ -22,3 +22,7 @@
 ### Version Control Systems
 #### with GUI
 * smartgit | [Smart git for ubuntu](http://www.syntevo.com/smartgit/download)
+
+
+### Terminal Themes
+* terminal-flat-theme | [add flat colors to your terminal](https://github.com/IonicaBizau/terminal-flat-theme)
