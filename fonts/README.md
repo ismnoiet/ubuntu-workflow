@@ -11,3 +11,11 @@ Here is a good list :
 * [FiraCode](https://github.com/tonsky/FiraCode).
 * [pt-mono](http://www.fontsquirrel.com/fonts/pt-mono).
 * [menlo](http://www.cufonfonts.com/fr/font/13494/menlo).
+* [DroidFamily](http://www.fontsquirrel.com/fonts/droid-sans).
+* [source-code-pro](http://www.fontsquirrel.com/fonts/source-code-pro)
+
+
+#### Monotype
+* [Anonymous](http://www.fontsquirrel.com/fonts/anonymous).
+* [Monoid](http://www.fontsquirrel.com/fonts/monoid).
+* [Ubuntu-Mono](http://www.fontsquirrel.com/fonts/ubuntu-mono).
