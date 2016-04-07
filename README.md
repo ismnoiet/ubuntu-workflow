@@ -26,3 +26,6 @@
 
 ### Terminal Themes
 * terminal-flat-theme | [add flat colors to your terminal](https://github.com/IonicaBizau/terminal-flat-theme)
+
+### Text editor 
+* sublime text | [hackable code editor](https://www.sublimetext.com/3).
