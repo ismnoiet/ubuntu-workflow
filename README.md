@@ -29,3 +29,7 @@
 
 ### Text editor 
 * sublime text | [hackable code editor](https://www.sublimetext.com/3).
+
+
+### Chrome Extensions
+* FireShot | [capture webpages ](https://chrome.google.com/webstore/detail/capture-webpage-screensho/mcbpblocgmgfnpjjppndjkmgjaogfceg?hl=en)
