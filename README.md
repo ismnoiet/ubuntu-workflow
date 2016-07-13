@@ -34,3 +34,6 @@
 ### Chrome Extensions
 * FireShot | [capture webpages ](https://chrome.google.com/webstore/detail/capture-webpage-screensho/mcbpblocgmgfnpjjppndjkmgjaogfceg?hl=en).
 * Postman | [test API's with ease](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en).
+
+### Video editing 
+* kdenlive | [kdenlive](https://kdenlive.org/download-ubuntu).
