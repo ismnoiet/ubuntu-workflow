@@ -34,6 +34,7 @@
 ### Chrome Extensions
 * FireShot | [capture webpages ](https://chrome.google.com/webstore/detail/capture-webpage-screensho/mcbpblocgmgfnpjjppndjkmgjaogfceg?hl=en).
 * Postman | [test API's with ease](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en).
+*  OneTab | [collapse all opened tabs into only one and save up to 95% memory usage!](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall?hl=en).
 
 ### Video editing 
 * kdenlive | [kdenlive](https://kdenlive.org/download-ubuntu).
